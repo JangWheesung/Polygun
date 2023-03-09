@@ -1,0 +1,15 @@
+.nomal {
+    opacity: 0;
+}
+
+.die {
+    opacity: 1;
+}
+
+#ReStart:hover {
+    background-color: rgba(0, 58, 255, 255);
+}
+
+#Menu:hover {
+    background-color: rgba(0, 39, 255, 255);
+}
