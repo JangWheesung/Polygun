@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa8a37c76f115b74aa28f95dabfecabd, type: 3}
   m_Name: GreenEnemy
   m_EditorClassIdentifier: 
-  hp: 6
+  hp: 5
   roundPerMinute: 8.5
   radiusRange: 15
   boundaryTime: 4

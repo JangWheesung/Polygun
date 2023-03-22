@@ -30,7 +30,6 @@ public class GunRaycast : MonoBehaviour
         if (Physics.Raycast(ray, out hit) && hit.transform.CompareTag("Enemy"))//Àû
         {
             hit.transform.GetComponent<EnemyAi>().Behitting();
-
             Quaternion thisRot = Quaternion.Euler(playerHead.transform.eulerAngles.x - 180, player.transform.eulerAngles.y, 0);
             BulletSmokeManager.Instance.CreateEnemyHitParticle(hit.point, thisRot);
         }

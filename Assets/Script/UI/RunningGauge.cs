@@ -49,7 +49,7 @@ public class RunningGauge : MonoBehaviour
 
             if (PlayerMove.Instance.isShooting)
             {
-                CameraShake(0.5f, 5f);
+                CameraShake(0.5f, 7f);
             }
             else if(PlayerMove.Instance.isMoving)
             {
