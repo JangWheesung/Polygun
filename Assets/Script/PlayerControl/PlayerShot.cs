@@ -5,6 +5,15 @@ using DG.Tweening;
 using FD.Dev;
 using Cinemachine;
 
+[System.Serializable]
+public class Weapon
+{
+    public string name;
+    public int maxMagazine;
+    public int magazine;
+    public int bullets;
+}
+
 public class PlayerShot : MonoBehaviour
 {
     private AudioSource shotSound;
@@ -26,9 +35,8 @@ public class PlayerShot : MonoBehaviour
     [SerializeField] private GameObject fireEmpact;
 
     [Header("Magazine")]
-    public int maxMagazine;
-    public int magazine { get; set; }
-    public int bullets;
+    [SerializeField] private List<Weapon> weapons = new List<Weapon>();
+    public Weapon nowWeapos;
 
     bool shootingDelay;
     bool reloading;
@@ -40,24 +48,52 @@ public class PlayerShot : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
         bulletUi = FindObjectOfType<BulletUi>();
 
-        bullets = maxMagazine;
+        for(int i = 0; i < weapons.Count; i++)
+            weapons[i].bullets = weapons[i].maxMagazine;
+
         canReshoot = true;
+        nowWeapos = weapons[0];
     }
 
     void Update()
     {
-        Aiming();
-        Shoot();
-        Reload();
+        if(Input.anyKeyDown) GunChange();
+
+        Aiming(nowWeapos);
+        Shoot(nowWeapos);
+        Reload(nowWeapos);
     }
 
-    void Shoot()
+    void GunChange()
     {
-        if (Input.GetButton("Fire1") && bullets > 0 && !shootingDelay && canReshoot)
+        for (int i = 0; i < weapons.Count; i++)
+        {
+            if (Input.GetKeyDown(byKeyCode(i)))
+                nowWeapos = weapons[i];
+        }
+
+        anim.SetTrigger(nowWeapos.name);
+    }
+
+    KeyCode byKeyCode(int inputNumber)
+    {
+        KeyCode changeKey = inputNumber switch
+        {
+            1 => KeyCode.Alpha1,
+            2 => KeyCode.Alpha2,
+            3 => KeyCode.Alpha3,
+            _ => KeyCode.Numlock
+        };
+        return changeKey;
+    }
+
+    void Shoot(Weapon wp)
+    {
+        if (Input.GetButton("Fire1") && wp.bullets > 0 && !shootingDelay && canReshoot)
         {
             GunRaycast.Instance.GunRay();
 
-            bullets--;
+            wp.bullets--;
 
             shootingDelay = true;
             StartCoroutine(ShootingDelay(shootSpeed));
@@ -67,9 +103,9 @@ public class PlayerShot : MonoBehaviour
         else fireEmpact.SetActive(false);
     }
 
-    void Aiming()
+    void Aiming(Weapon wp)
     {
-        if (Input.GetButtonDown("Fire1") && bullets > 0 && !PlayerMove.Instance.isSitting)
+        if (Input.GetButtonDown("Fire1") && wp.bullets > 0 && !PlayerMove.Instance.isSitting)
         {
             anim.SetBool("Shoot2", true);
             Debug.Log(22);
@@ -89,25 +125,25 @@ public class PlayerShot : MonoBehaviour
         }
     }
 
-    void Reload()
+    void Reload(Weapon wp)
     {
-        if (bullets <= 0 && !reloading)
+        if (wp.bullets <= 0 && !reloading)
         {
-            Reloading();
+            Reloading(wp);
             if(bulletUi.enabled) anim.SetBool("Shoot2", false);
         }
 
-        if (Input.GetKeyDown(KeyCode.R) && bullets != 50 && !PlayerMove.Instance.isShooting)
+        if (Input.GetKeyDown(KeyCode.R) && wp.bullets != 50 && !PlayerMove.Instance.isShooting)
         {
             bulletUi.enabled = false;
-            bullets = 0;
+            wp.bullets = 0;
         }
 
-        if (bullets > 0) reloading = false;
-        if (bullets == 1) bullets = 0;
+        if (wp.bullets > 0) reloading = false;
+        if (wp.bullets == 1) wp.bullets = 0;
     }
 
-    void Reloading()
+    void Reloading(Weapon wp)
     {
         reloading = true;
         canReshoot = false;
@@ -118,7 +154,7 @@ public class PlayerShot : MonoBehaviour
         fireEmpact.SetActive(false);
 
         FAED.InvokeDelay(() => {
-            bullets = maxMagazine;
+            wp.bullets = wp.maxMagazine;
             bulletUi.enabled = true;
         }, reloadSpeed);
     }

@@ -12,9 +12,12 @@ public class GunRaycast : MonoBehaviour
     Ray ray;
     RaycastHit hit;
 
+    Camera cam;
+
     private void Awake()
     {
         Instance = this;
+        cam = Camera.main;
 
         player = transform.parent.parent.parent.gameObject;
         //playerHead = FindObjectOfType<PlayerHead>();
@@ -22,7 +25,7 @@ public class GunRaycast : MonoBehaviour
 
     void Update()
     {
-        ray = new Ray(transform.position, transform.forward);
+        ray = new Ray(transform.position, cam.ScreenPointToRay(Input.mousePosition).direction);
     }
 
     public void GunRay()

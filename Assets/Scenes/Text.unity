@@ -56519,8 +56519,16 @@ MonoBehaviour:
   shotPos: {fileID: 1475243757}
   firePoint: {fileID: 510586390}
   fireEmpact: {fileID: 433364666}
-  maxMagazine: 50
-  bullets: 0
+  weapons:
+  - name: gun
+    maxMagazine: 50
+    magazine: 0
+    bullets: 0
+  nowWeapos:
+    name: 
+    maxMagazine: 0
+    magazine: 0
+    bullets: 0
   canReshoot: 0
 --- !u!82 &1534953915
 AudioSource:
@@ -79247,8 +79255,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 10000
+  m_Color: {r: 1, g: 0.9691451, b: 0.88113207, a: 1}
+  m_Intensity: 40000
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -79325,7 +79333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Intensity: 10000
+  m_Intensity: 40000
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0

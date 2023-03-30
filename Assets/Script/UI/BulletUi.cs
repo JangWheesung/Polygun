@@ -16,6 +16,6 @@ public class BulletUi : MonoBehaviour
 
     void Update()
     {
-        ammunitionText.text = $"{playerShot.bullets}/{playerShot.maxMagazine}";
+        ammunitionText.text = $"{playerShot.nowWeapos.bullets}/{playerShot.nowWeapos.maxMagazine}";
     }
 }
