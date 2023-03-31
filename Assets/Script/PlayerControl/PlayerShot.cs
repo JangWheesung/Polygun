@@ -8,10 +8,12 @@ using Cinemachine;
 [System.Serializable]
 public class Weapon
 {
-    public string name;
+    public Texture appearance;
     public int maxMagazine;
     public int magazine;
     public int bullets;
+    public float shootSpeed;
+    public float reloadSpeed;
 }
 
 public class PlayerShot : MonoBehaviour
@@ -23,8 +25,6 @@ public class PlayerShot : MonoBehaviour
 
     [Header("Speed")]
     [SerializeField] private float rotateSpeed;
-    [SerializeField] private float shootSpeed;
-    [SerializeField] private float reloadSpeed;
 
     [Header("GunPos")]
     [SerializeField] private Transform idlePos;
@@ -37,6 +37,7 @@ public class PlayerShot : MonoBehaviour
     [Header("Magazine")]
     [SerializeField] private List<Weapon> weapons = new List<Weapon>();
     public Weapon nowWeapos;
+    [SerializeField] private Material gunMaterial;
 
     bool shootingDelay;
     bool reloading;
@@ -57,7 +58,7 @@ public class PlayerShot : MonoBehaviour
 
     void Update()
     {
-        if(Input.anyKeyDown) GunChange();
+        if(Input.anyKeyDown && !PlayerMove.Instance.isShooting && !reloading) GunChange();
 
         Aiming(nowWeapos);
         Shoot(nowWeapos);
@@ -68,11 +69,11 @@ public class PlayerShot : MonoBehaviour
     {
         for (int i = 0; i < weapons.Count; i++)
         {
-            if (Input.GetKeyDown(byKeyCode(i)))
-                nowWeapos = weapons[i];
+            if (Input.GetKeyDown(byKeyCode(i + 1)))
+                nowWeapos = weapons[i]; Debug.Log(444);
         }
 
-        anim.SetTrigger(nowWeapos.name);
+        gunMaterial.SetTexture(nowWeapos.appearance.name, nowWeapos.appearance);
     }
 
     KeyCode byKeyCode(int inputNumber)
@@ -96,7 +97,7 @@ public class PlayerShot : MonoBehaviour
             wp.bullets--;
 
             shootingDelay = true;
-            StartCoroutine(ShootingDelay(shootSpeed));
+            StartCoroutine(ShootingDelay(wp.shootSpeed));
         }
 
         if (Input.GetButton("Fire1") && PlayerMove.Instance.isShooting) fireEmpact.SetActive(true);
@@ -156,7 +157,7 @@ public class PlayerShot : MonoBehaviour
         FAED.InvokeDelay(() => {
             wp.bullets = wp.maxMagazine;
             bulletUi.enabled = true;
-        }, reloadSpeed);
+        }, wp.reloadSpeed);
     }
 
     IEnumerator ShootingDelay(float time)
