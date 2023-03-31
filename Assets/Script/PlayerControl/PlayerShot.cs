@@ -25,6 +25,7 @@ public class PlayerShot : MonoBehaviour
 
     [Header("Speed")]
     [SerializeField] private float rotateSpeed;
+    [SerializeField] private float gunSwapSpeed;
 
     [Header("GunPos")]
     [SerializeField] private Transform idlePos;
@@ -32,7 +33,7 @@ public class PlayerShot : MonoBehaviour
 
     [Header("Guns")]
     [SerializeField] private Transform firePoint;
-    [SerializeField] private GameObject fireEmpact;
+    [SerializeField] private ParticleSystem fireEmpact;
 
     [Header("Magazine")]
     [SerializeField] private List<Weapon> weapons = new List<Weapon>();
@@ -41,6 +42,7 @@ public class PlayerShot : MonoBehaviour
 
     bool shootingDelay;
     bool reloading;
+    public bool swap;
     public bool canReshoot;
 
     void Awake()
@@ -51,26 +53,35 @@ public class PlayerShot : MonoBehaviour
 
         for(int i = 0; i < weapons.Count; i++)
             weapons[i].bullets = weapons[i].maxMagazine;
-
-        canReshoot = true;
         nowWeapos = weapons[0];
+
+        idlePos = transform;
+        canReshoot = true;
     }
 
     void Update()
     {
-        if(Input.anyKeyDown && !PlayerMove.Instance.isShooting && !reloading) GunChange();
+        if(Input.anyKeyDown && !PlayerMove.Instance.isShooting && !swap) GunChange(gunSwapSpeed);
 
         Aiming(nowWeapos);
         Shoot(nowWeapos);
         Reload(nowWeapos);
     }
 
-    void GunChange()
+    void GunChange(float time)
     {
         for (int i = 0; i < weapons.Count; i++)
         {
-            if (Input.GetKeyDown(byKeyCode(i + 1)))
-                nowWeapos = weapons[i]; Debug.Log(444);
+            if (Input.GetKeyDown(byKeyCode(i + 1)) && nowWeapos != weapons[i])
+            {
+                nowWeapos = weapons[i];
+
+                transform.position += new Vector3(0, -0.7f, -0.7f);
+                transform.DOMove(new Vector3(0.5f, -0.5f, 0.9f), time);
+
+                swap = true;
+                FAED.InvokeDelay(() => { swap = false; }, time);
+            }
         }
 
         gunMaterial.SetTexture(nowWeapos.appearance.name, nowWeapos.appearance);
@@ -100,8 +111,8 @@ public class PlayerShot : MonoBehaviour
             StartCoroutine(ShootingDelay(wp.shootSpeed));
         }
 
-        if (Input.GetButton("Fire1") && PlayerMove.Instance.isShooting) fireEmpact.SetActive(true);
-        else fireEmpact.SetActive(false);
+        if (Input.GetButtonDown("Fire1") && PlayerMove.Instance.isShooting) fireEmpact.Play();
+        if(Input.GetButtonUp("Fire1")) fireEmpact.Stop();
     }
 
     void Aiming(Weapon wp)
@@ -130,6 +141,7 @@ public class PlayerShot : MonoBehaviour
     {
         if (wp.bullets <= 0 && !reloading)
         {
+            fireEmpact.Stop();
             Reloading(wp);
             if(bulletUi.enabled) anim.SetBool("Shoot2", false);
         }
@@ -152,7 +164,7 @@ public class PlayerShot : MonoBehaviour
         PlayerMove.Instance.isShooting = false;
 
         anim.SetTrigger("DoReload");
-        fireEmpact.SetActive(false);
+        //fireEmpact.SetActive(false);
 
         FAED.InvokeDelay(() => {
             wp.bullets = wp.maxMagazine;

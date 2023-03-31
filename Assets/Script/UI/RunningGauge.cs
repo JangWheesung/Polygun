@@ -8,8 +8,10 @@ public class RunningGauge : MonoBehaviour
 {
     public static RunningGauge Instance;
     public CinemachineVirtualCamera cv;
-    private PlayerHead playerHead;
     private Slider runningBar;
+
+    private PlayerHead playerHead;
+    private PlayerShot playerShot;
 
     private Vector3 nowPos;
     public bool canRunning;
@@ -17,6 +19,7 @@ public class RunningGauge : MonoBehaviour
     void Awake()
     {
         playerHead = FindObjectOfType<PlayerHead>();
+        playerShot = FindObjectOfType<PlayerShot>();
         runningBar = gameObject.GetComponent<Slider>();
 
         Instance = this;
@@ -35,7 +38,7 @@ public class RunningGauge : MonoBehaviour
 
     void Running()
     {
-        if (Input.GetKey(KeyCode.LeftShift) && canRunning && !PlayerMove.Instance.isShooting && PlayerMove.Instance.isMoving && !PlayerMove.Instance.isSitting)
+        if (Input.GetKey(KeyCode.LeftShift) && canRunning && !PlayerMove.Instance.isShooting && PlayerMove.Instance.isMoving && !PlayerMove.Instance.isSitting && !playerShot.swap)
         {
             PlayerMove.Instance.runSpeed = 1.3f;
 
