@@ -8,7 +8,7 @@ using Cinemachine;
 [System.Serializable]
 public class Weapon
 {
-    public Texture appearance;
+    public Material material;
     public int maxMagazine;
     public int magazine;
     public int bullets;
@@ -38,7 +38,7 @@ public class PlayerShot : MonoBehaviour
     [Header("Magazine")]
     [SerializeField] private List<Weapon> weapons = new List<Weapon>();
     public Weapon nowWeapos;
-    [SerializeField] private Material gunMaterial;
+    [SerializeField] private SkinnedMeshRenderer gunMaterial;
 
     bool shootingDelay;
     bool reloading;
@@ -77,14 +77,14 @@ public class PlayerShot : MonoBehaviour
                 nowWeapos = weapons[i];
 
                 transform.position += new Vector3(0, -0.7f, -0.7f);
-                transform.DOMove(new Vector3(0.5f, -0.5f, 0.9f), time);
+                transform.DOLocalMove(new Vector3(0.5f, -0.5f, 0.9f), time);
 
                 swap = true;
                 FAED.InvokeDelay(() => { swap = false; }, time);
             }
         }
 
-        gunMaterial.SetTexture(nowWeapos.appearance.name, nowWeapos.appearance);
+        gunMaterial.material = nowWeapos.material;
     }
 
     KeyCode byKeyCode(int inputNumber)
@@ -94,6 +94,7 @@ public class PlayerShot : MonoBehaviour
             1 => KeyCode.Alpha1,
             2 => KeyCode.Alpha2,
             3 => KeyCode.Alpha3,
+            4 => KeyCode.Alpha4,
             _ => KeyCode.Numlock
         };
         return changeKey;
