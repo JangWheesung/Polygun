@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 using FD.Dev;
 
 public class EnemyAi : MonoBehaviour
@@ -15,6 +16,7 @@ public class EnemyAi : MonoBehaviour
     private BoxCollider groundCollider;
     private AudioSource shotSound;
     private GameObject player;
+    private NavMeshAgent agent;
 
     [SerializeField] private LayerMask playerMask;
 
@@ -24,13 +26,18 @@ public class EnemyAi : MonoBehaviour
     private float roundPerMinute; //연사력
     private float radiusRange; //경계범위
     private float boundaryTime; //사격 후 경계시간
-    private readonly float moveSpeed = 0.03f; //걷는속도(적 종류 다 동일)
+    private const float moveSpeed = 0.03f; //걷는속도(적 종류 다 동일)
+    private const float runSpeed = 0.03f; //뛰는속도(적 종류 다 동일)
 
     [Header("Guns")]
     [SerializeField] private Transform firePoint;
     [SerializeField] private GameObject bullet;
     [SerializeField] private GameObject fireEmpact;
 
+    [Header("Mode")]
+    [SerializeField] private bool survive;
+
+    Vector3 destination;
     Quaternion originalRot;
     float zBlend;
     float time = 0;
@@ -53,6 +60,12 @@ public class EnemyAi : MonoBehaviour
         boundaryTime = enemyStat.boundaryTime;
 
         originalRot = transform.rotation;
+
+        if (survive)
+        {
+            agent = GetComponent<NavMeshAgent>();
+            destination = agent.destination;
+        }
     }
 
     void Update()
@@ -68,7 +81,8 @@ public class EnemyAi : MonoBehaviour
         switch (state)
         {
             case State.move:
-                Move();
+                if (survive) Tracking();
+                else Move();
                 break;
             case State.shot:
                 if(PlayerHp.Instance.hp > 0) Shot();
@@ -78,11 +92,25 @@ public class EnemyAi : MonoBehaviour
         Complete();
     }
 
+    private void Move()
+    {
+        float z = Vector();
+
+        Vector3 moveZ = transform.forward * z;
+        Vector3 pos = moveZ.normalized * moveSpeed;
+
+        zBlend = Mathf.Lerp(zBlend, z, Time.deltaTime * 10f);
+
+        rigidbody.MovePosition(transform.position + pos);
+
+        animator.SetFloat("Y", zBlend);
+    }
+
     private int Vector()
     {
         if (true)
         {
-            if(state == State.move) time += Time.deltaTime;
+            if (state == State.move) time += Time.deltaTime;
 
             switch (time)
             {
@@ -99,18 +127,13 @@ public class EnemyAi : MonoBehaviour
         return 0;
     }
 
-    private void Move()
+    private void Tracking()
     {
-        float z = Vector();
-
-        Vector3 moveZ = transform.forward * z;
-        Vector3 pos = moveZ.normalized * moveSpeed;
-
-        zBlend = Mathf.Lerp(zBlend, z, Time.deltaTime * 10f);
-
-        rigidbody.MovePosition(transform.position + pos);
-
-        animator.SetFloat("Y", zBlend);
+        if (Vector3.Distance(destination, player.transform.position) > 1.0f)
+        {
+            destination = player.transform.position;
+            agent.destination = destination;
+        }
     }
 
     private void Range()
