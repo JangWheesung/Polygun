@@ -27,7 +27,7 @@ public class EnemyAi : MonoBehaviour
     private float radiusRange; //경계범위
     private float boundaryTime; //사격 후 경계시간
     private const float moveSpeed = 0.03f; //걷는속도(적 종류 다 동일)
-    private const float runSpeed = 0.03f; //뛰는속도(적 종류 다 동일)
+    private const float runSpeed = 7f; //뛰는속도(적 종류 다 동일)
 
     [Header("Guns")]
     [SerializeField] private Transform firePoint;
@@ -64,6 +64,7 @@ public class EnemyAi : MonoBehaviour
         if (survive)
         {
             agent = GetComponent<NavMeshAgent>();
+            agent.speed = runSpeed;
             destination = agent.destination;
         }
     }
@@ -129,10 +130,12 @@ public class EnemyAi : MonoBehaviour
 
     private void Tracking()
     {
-        if (Vector3.Distance(destination, player.transform.position) > 1.0f)
+        if (Vector3.Distance(destination, player.transform.position) > 5.0f)
         {
             destination = player.transform.position;
             agent.destination = destination;
+
+            animator.SetBool("Run", true);
         }
     }
 
@@ -145,8 +148,20 @@ public class EnemyAi : MonoBehaviour
         }
         if (collider.Length == 0 && state == State.shot && !alert)
         {
-            state = State.warning;
-            Warning();
+            if (survive)
+            {
+                animator.SetBool("Shot", false);
+                animator.SetBool("Run", true);
+                transform.rotation = originalRot;
+                fireEmpact.SetActive(false);
+                shotSound.volume = 0.5f;
+                state = State.move;
+            }
+            else
+            {
+                state = State.warning;
+                Warning();
+            }
         }
     }
 
@@ -169,9 +184,20 @@ public class EnemyAi : MonoBehaviour
 
     private void Shot()
     {
+        animator.SetBool("Run", false);
         animator.SetBool("Shot", true);
 
+        try
+        {
+            agent.destination = transform.position;
+        }
+        catch (Exception exp)
+        {
+
+        }
+
         Vector3 ves = player.transform.position - transform.position;
+
         Quaternion q = Quaternion.LookRotation(ves.normalized);
         transform.rotation = q;
         transform.eulerAngles += new Vector3(0, 41, 0);
