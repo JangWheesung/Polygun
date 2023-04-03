@@ -130,7 +130,7 @@ public class EnemyAi : MonoBehaviour
 
     private void Tracking()
     {
-        if (Vector3.Distance(destination, player.transform.position) > 5.0f)
+        if (Vector3.Distance(destination, player.transform.position) > 1.0f)
         {
             destination = player.transform.position;
             agent.destination = destination;
@@ -206,7 +206,7 @@ public class EnemyAi : MonoBehaviour
 
         if (!shootingDelay)
         {
-            FAED.Pop("Bullet", firePoint.position, firePoint.rotation);
+            FAED.Pop("Bullet", firePoint.position, firePoint.rotation); 
 
             shootingDelay = true;
             StartCoroutine(ShootingDelay(1 / roundPerMinute));

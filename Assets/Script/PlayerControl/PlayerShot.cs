@@ -121,7 +121,6 @@ public class PlayerShot : MonoBehaviour
         if (Input.GetButtonDown("Fire1") && wp.bullets > 0 && !PlayerMove.Instance.isSitting)
         {
             anim.SetBool("Shoot2", true);
-            Debug.Log(22);
 
             shotSound.volume = 1;
 
