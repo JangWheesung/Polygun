@@ -4,10 +4,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 using FD.Dev;
+using Unity.Burst.CompilerServices;
 
 public class EnemyAi : MonoBehaviour
 {
-    private enum State { move, shot, warning, diying}
+    private enum State { move, shot, warning, diying }
     State state = State.move;
 
     private new Rigidbody rigidbody;
@@ -68,9 +69,10 @@ public class EnemyAi : MonoBehaviour
             destination = agent.destination;
         }
     }
-
+    RaycastHit hit;
     void Update()
     {
+        //Debug.Log(d);
         Brain();
         Life();
     }
@@ -136,6 +138,19 @@ public class EnemyAi : MonoBehaviour
             agent.destination = destination;
 
             animator.SetBool("Run", true);
+        }
+
+        bool d = Physics.Raycast(transform.position + new Vector3(0, 2, 0), Vector3.up * 20, out hit);
+        if (d) 
+        {
+            if (time == 0)
+            {
+                time = Time.time;
+            }
+            else if (Time.time - time > 3)
+            {
+                state = State.diying;
+            }
         }
     }
 

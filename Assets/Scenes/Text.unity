@@ -398,6 +398,10 @@ PrefabInstance:
       value: UNIConcrete_wall_v1_S_R_2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010190339526, guid: 7b4f0314f4e30c94185e84a096c302bc, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010190339526, guid: 7b4f0314f4e30c94185e84a096c302bc, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -504,6 +508,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (26)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -576,6 +584,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -652,6 +664,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (15)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -720,6 +736,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -796,6 +816,10 @@ PrefabInstance:
       value: Palet_v1_single (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -870,6 +894,10 @@ PrefabInstance:
       value: Oil_tank_v2 (14)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -930,6 +958,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -996,6 +1028,10 @@ PrefabInstance:
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_Name
       value: Palet_v1_set (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1068,6 +1104,10 @@ PrefabInstance:
       value: Oil_tank_v2 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1128,6 +1168,10 @@ PrefabInstance:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v2 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1204,6 +1248,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S_half (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012516067446, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012516067446, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1261,6 +1309,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -1323,6 +1375,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Concrete_fence_v2_S (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010230679374, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -1372,6 +1428,10 @@ PrefabInstance:
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_Name
       value: Palet_v1_set (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1450,6 +1510,10 @@ PrefabInstance:
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_column (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1594,6 +1658,10 @@ PrefabInstance:
       value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1000011889595636, guid: dfec00be6c7c5b944991547485554901, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011889595636, guid: dfec00be6c7c5b944991547485554901, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1662,6 +1730,10 @@ PrefabInstance:
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_L (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1738,6 +1810,10 @@ PrefabInstance:
       value: Hangar_v1_full (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1806,6 +1882,10 @@ PrefabInstance:
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_Name
       value: Conditioner_v1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1906,6 +1986,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1978,6 +2062,10 @@ PrefabInstance:
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_Name
       value: Hangar_v4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2188,6 +2276,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2320,6 +2412,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (24)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2400,6 +2496,10 @@ PrefabInstance:
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2574,6 +2674,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (19)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2644,6 +2748,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2710,6 +2818,10 @@ PrefabInstance:
       value: Oil_tank_v1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2772,6 +2884,10 @@ PrefabInstance:
       value: Oil_tank_v2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2832,6 +2948,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2898,6 +3018,10 @@ PrefabInstance:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2972,6 +3096,10 @@ PrefabInstance:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3052,6 +3180,10 @@ PrefabInstance:
       value: UNIConcrete_wall_v1_W_3 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3130,6 +3262,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (25)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3202,6 +3338,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3286,6 +3426,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3351,6 +3495,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -3426,6 +3574,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (11)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3494,6 +3646,10 @@ PrefabInstance:
     - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_tile_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 4000011729940266, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_RootOrder
@@ -3694,6 +3850,10 @@ PrefabInstance:
       value: Palet_v1_set (11)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3768,6 +3928,10 @@ PrefabInstance:
       value: Pipes_set_v1_V_set_v2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3833,6 +3997,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -3993,6 +4161,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -4155,6 +4327,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (20)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4312,6 +4488,10 @@ PrefabInstance:
       value: Barrel_v1_LD1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4374,6 +4554,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4434,6 +4618,10 @@ PrefabInstance:
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4500,6 +4688,10 @@ PrefabInstance:
     - target: {fileID: 1000012001423700, guid: efaf0e3818a9ab240983b51198f0a77a, type: 3}
       propertyPath: m_Name
       value: Barrel_v2_quadro (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012001423700, guid: efaf0e3818a9ab240983b51198f0a77a, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012001423700, guid: efaf0e3818a9ab240983b51198f0a77a, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4626,6 +4818,10 @@ PrefabInstance:
       value: Oil_tank_v2 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4687,6 +4883,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -4830,6 +5030,10 @@ PrefabInstance:
       value: Cargo_container_v1_LD2close (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4904,6 +5108,10 @@ PrefabInstance:
       value: Concrete_fence_v1_s1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000011737549872, guid: 8270a6a93cde92045a7d335d31b2ece4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011737549872, guid: 8270a6a93cde92045a7d335d31b2ece4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4967,6 +5175,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000013040479746, guid: 46472ef0a5e771447837601c9fb0d67e, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013040479746, guid: 46472ef0a5e771447837601c9fb0d67e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -5027,6 +5239,10 @@ PrefabInstance:
     - target: {fileID: 1000013176325546, guid: 99914c1bbcbb9244d8d61fe025c942d0, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_tile_d2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013176325546, guid: 99914c1bbcbb9244d8d61fe025c942d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013176325546, guid: 99914c1bbcbb9244d8d61fe025c942d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5103,6 +5319,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -5167,6 +5387,10 @@ PrefabInstance:
     - target: {fileID: 1000012364095318, guid: a62abbb708e3f49489bde29e5cfc3ebd, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_single (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012364095318, guid: a62abbb708e3f49489bde29e5cfc3ebd, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012364095318, guid: a62abbb708e3f49489bde29e5cfc3ebd, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5237,6 +5461,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5311,6 +5539,10 @@ PrefabInstance:
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_Name
       value: Conditioner_v1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5391,6 +5623,10 @@ PrefabInstance:
       value: Oil_tank_v2 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -5448,6 +5684,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012572734108, guid: 9037b8b3960b7374db644184ba705142, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012572734108, guid: 9037b8b3960b7374db644184ba705142, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -5513,6 +5753,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5584,6 +5828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_end_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012325146960, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010393218820, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
       propertyPath: m_RootOrder
       value: 348
@@ -5645,6 +5893,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5715,6 +5967,10 @@ PrefabInstance:
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5982,6 +6238,10 @@ PrefabInstance:
       value: Palet_v1_set (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6058,6 +6318,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6206,6 +6470,10 @@ PrefabInstance:
       value: Oil_tank_v1 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6270,6 +6538,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6416,6 +6688,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6477,6 +6753,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -6546,6 +6826,10 @@ PrefabInstance:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6620,6 +6904,10 @@ PrefabInstance:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v2 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6750,6 +7038,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6814,6 +7106,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7090,6 +7386,10 @@ PrefabInstance:
       value: Hangar_v4 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7232,6 +7532,10 @@ PrefabInstance:
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_Name
       value: Conditioner_v1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7378,6 +7682,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7452,6 +7760,10 @@ PrefabInstance:
       value: Pipes_set_v1_V_set_v2 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7516,6 +7828,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7596,6 +7912,10 @@ PrefabInstance:
       value: Palet_v1_set (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7674,6 +7994,10 @@ PrefabInstance:
       value: Oil_tank_v2 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7738,6 +8062,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7806,6 +8134,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7866,6 +8198,10 @@ PrefabInstance:
     - target: {fileID: 1000010056762816, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7942,6 +8278,10 @@ PrefabInstance:
       value: Hangar_v2_basic (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8016,6 +8356,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8082,6 +8426,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8146,6 +8494,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8447,6 +8799,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (18)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8517,6 +8873,10 @@ PrefabInstance:
       value: Oil_tank_v1 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8577,6 +8937,10 @@ PrefabInstance:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8640,6 +9004,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012001423700, guid: efaf0e3818a9ab240983b51198f0a77a, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012001423700, guid: efaf0e3818a9ab240983b51198f0a77a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -8739,6 +9107,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012325146960, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012325146960, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8803,6 +9175,10 @@ PrefabInstance:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8955,6 +9331,10 @@ PrefabInstance:
       value: Conditioner_v1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9033,6 +9413,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (11)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9097,6 +9481,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9164,6 +9552,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -9293,6 +9685,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9361,6 +9757,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9435,6 +9835,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9671,6 +10075,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9827,6 +10235,10 @@ PrefabInstance:
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10034,6 +10446,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000013628716364, guid: ee5ce8c8eaa133d43a291b519c442236, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013628716364, guid: ee5ce8c8eaa133d43a291b519c442236, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10157,7 +10573,7 @@ GameObject:
   - component: {fileID: 624625779}
   m_Layer: 0
   m_Name: Map_v1
-  m_TagString: Untagged
+  m_TagString: Buliding
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -10189,6 +10605,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10273,6 +10693,10 @@ PrefabInstance:
       value: Concrete_fence_v1_column (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10333,6 +10757,10 @@ PrefabInstance:
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_Name
       value: Hangar_v4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10417,6 +10845,10 @@ PrefabInstance:
       value: Palet_v1_set (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10493,6 +10925,10 @@ PrefabInstance:
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_Name
       value: Hangar_v4 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10573,6 +11009,10 @@ PrefabInstance:
       value: Industrial_pipe_v1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10639,6 +11079,10 @@ PrefabInstance:
       value: Cargo_container_v1_LD2close (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10703,6 +11147,10 @@ PrefabInstance:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_quadro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10775,6 +11223,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000013395745738, guid: d8185c26d9422ab41a0e3507aaab9abe, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013395745738, guid: d8185c26d9422ab41a0e3507aaab9abe, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10844,6 +11296,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -10985,6 +11441,10 @@ PrefabInstance:
       value: Palet_v1_set (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11054,6 +11514,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013757953436, guid: 6d15667748fa3ba459339c2fea76e1ee, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013757953436, guid: 6d15667748fa3ba459339c2fea76e1ee, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -11125,6 +11589,10 @@ PrefabInstance:
       value: Cargo_container_v1_LD2close (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11189,6 +11657,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11269,6 +11741,10 @@ PrefabInstance:
       value: Industrial_pipe_v1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11330,6 +11806,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -11551,6 +12031,10 @@ PrefabInstance:
       value: Pipes_set_v1_H_set_v2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11712,6 +12196,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11878,6 +12366,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11939,6 +12431,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012364095318, guid: a62abbb708e3f49489bde29e5cfc3ebd, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012364095318, guid: a62abbb708e3f49489bde29e5cfc3ebd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -12005,6 +12501,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013176325546, guid: 99914c1bbcbb9244d8d61fe025c942d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013176325546, guid: 99914c1bbcbb9244d8d61fe025c942d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -12078,6 +12578,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12327,6 +12831,10 @@ PrefabInstance:
       value: Hangar_v4 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12467,6 +12975,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (17)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12532,6 +13044,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -12607,6 +13123,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12679,6 +13199,10 @@ PrefabInstance:
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_Name
       value: Hangar_v4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12763,6 +13287,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12831,6 +13359,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13106,6 +13638,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011359162234, guid: 1bf12e9c9fed6d740986f2d447756b0b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011359162234, guid: 1bf12e9c9fed6d740986f2d447756b0b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13238,6 +13774,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (24)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13316,6 +13856,10 @@ PrefabInstance:
       value: Palet_v1_set (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13384,6 +13928,10 @@ PrefabInstance:
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_3 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13458,6 +14006,10 @@ PrefabInstance:
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_Name
       value: Hangar_v2_basic (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13546,6 +14098,10 @@ PrefabInstance:
       value: UNIConcrete_wall_v1_W_3 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13624,6 +14180,10 @@ PrefabInstance:
       value: Oil_tank_v1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13684,6 +14244,10 @@ PrefabInstance:
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_L (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13932,6 +14496,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14002,6 +14570,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (13)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14070,6 +14642,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14204,6 +14780,10 @@ PrefabInstance:
       value: Conditioner_v1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14282,6 +14862,10 @@ PrefabInstance:
       value: Hangar_v4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14358,6 +14942,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14527,6 +15115,10 @@ PrefabInstance:
       value: Palet_v1_set (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14609,6 +15201,10 @@ PrefabInstance:
       value: Hangar_v1_full (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013721592950, guid: 95c00f442e3cf3643b2062e8e0d0bbd6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14673,6 +15269,10 @@ PrefabInstance:
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_Name
       value: Palet_v1_set (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14753,6 +15353,10 @@ PrefabInstance:
       value: Cargo_container_v1_LD2close (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14819,6 +15423,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14883,6 +15491,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14957,6 +15569,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15095,6 +15711,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (18)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15167,6 +15787,10 @@ PrefabInstance:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15242,6 +15866,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_tile_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011729940266, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_RootOrder
       value: 349
@@ -15303,6 +15931,10 @@ PrefabInstance:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_quadro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15383,6 +16015,10 @@ PrefabInstance:
       value: Hangar_v2_basic (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15461,6 +16097,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15527,6 +16167,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15591,6 +16235,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15663,6 +16311,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15723,6 +16375,10 @@ PrefabInstance:
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_Name
       value: Conditioner_v1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15901,6 +16557,10 @@ PrefabInstance:
       value: Palet_v1_set (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15962,6 +16622,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -16119,6 +16783,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16183,6 +16851,10 @@ PrefabInstance:
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_Name
       value: Palet_v1_single (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16341,6 +17013,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000010190339526, guid: 7b4f0314f4e30c94185e84a096c302bc, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010190339526, guid: 7b4f0314f4e30c94185e84a096c302bc, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16443,6 +17119,10 @@ PrefabInstance:
       value: Palet_v1_set (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16507,6 +17187,10 @@ PrefabInstance:
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_Name
       value: Conditioner_v1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16586,6 +17270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Concrete_fence_v2_S
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010230679374, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_RootOrder
       value: 345
@@ -16644,6 +17332,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -16710,6 +17402,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_tile_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000011729940266, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_RootOrder
       value: 347
@@ -16771,6 +17467,10 @@ PrefabInstance:
     - target: {fileID: 1000013395745738, guid: d8185c26d9422ab41a0e3507aaab9abe, type: 3}
       propertyPath: m_Name
       value: Hangar_v3_basic (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013395745738, guid: d8185c26d9422ab41a0e3507aaab9abe, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013395745738, guid: d8185c26d9422ab41a0e3507aaab9abe, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16847,6 +17547,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16907,6 +17611,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16977,6 +17685,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17053,6 +17765,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (14)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -17119,6 +17835,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011804541950, guid: f6bcabe29ce92584f8125c196a931d73, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011804541950, guid: f6bcabe29ce92584f8125c196a931d73, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -17183,6 +17903,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17259,6 +17983,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -17323,6 +18051,10 @@ PrefabInstance:
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_Name
       value: Palet_v1_set (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17401,6 +18133,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17568,6 +18304,10 @@ PrefabInstance:
       value: Palet_v1_single (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -17726,6 +18466,10 @@ PrefabInstance:
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_L (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17996,6 +18740,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (12)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -18064,6 +18812,10 @@ PrefabInstance:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_quadro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18138,6 +18890,10 @@ PrefabInstance:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18315,6 +19071,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (25)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -18447,6 +19207,10 @@ PrefabInstance:
       value: Palet_v1_set (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -18513,6 +19277,10 @@ PrefabInstance:
       value: Palet_v1_set (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -18577,6 +19345,10 @@ PrefabInstance:
     - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
       propertyPath: m_Name
       value: Barrel_v1_LD1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18655,6 +19427,10 @@ PrefabInstance:
     - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_Gate (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18859,6 +19635,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011737549872, guid: 8270a6a93cde92045a7d335d31b2ece4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011737549872, guid: 8270a6a93cde92045a7d335d31b2ece4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -19036,6 +19816,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -19114,6 +19898,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -19178,6 +19966,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19253,6 +20045,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -19791,6 +20587,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000013270310676, guid: e08e48c08f76113458c351bd1e07e5ef, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013270310676, guid: e08e48c08f76113458c351bd1e07e5ef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -19877,6 +20677,10 @@ PrefabInstance:
       value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1000013012713382, guid: 9a8a037e5343199458bcacb9d8803837, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013012713382, guid: 9a8a037e5343199458bcacb9d8803837, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -19937,6 +20741,10 @@ PrefabInstance:
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_L (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20135,6 +20943,10 @@ PrefabInstance:
       value: Palet_v1_single (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -20299,6 +21111,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -20534,6 +21350,10 @@ PrefabInstance:
       value: Palet_v1_set (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -20598,6 +21418,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20668,6 +21492,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20880,6 +21708,10 @@ PrefabInstance:
       value: Oil_tank_v1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -20940,6 +21772,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21105,6 +21941,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (19)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -21235,6 +22075,10 @@ PrefabInstance:
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_Name
       value: Palet_v1_single (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21493,6 +22337,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -21586,6 +22434,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (22)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -21658,6 +22510,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21734,6 +22590,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -21806,6 +22666,10 @@ PrefabInstance:
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_Name
       value: Palet_v1_single (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21886,6 +22750,10 @@ PrefabInstance:
       value: Oil_tank_v2 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -21950,6 +22818,10 @@ PrefabInstance:
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_Name
       value: Palet_v1_set (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22182,6 +23054,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -22251,6 +23127,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -22322,6 +23202,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -22382,6 +23266,10 @@ PrefabInstance:
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_column
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 4000012234785446, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_RootOrder
@@ -22562,6 +23450,10 @@ PrefabInstance:
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22764,6 +23656,10 @@ PrefabInstance:
       value: Barrel_v3_quadro
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -22907,6 +23803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Concrete_fence_v2_S_half (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1000012516067446, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 4000010482363180, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
       propertyPath: m_RootOrder
       value: 166
@@ -22956,6 +23856,10 @@ PrefabInstance:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23019,6 +23923,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010628347772, guid: 46132fa6877a42947bf1f7f15c09f435, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010628347772, guid: 46132fa6877a42947bf1f7f15c09f435, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -23088,6 +23996,10 @@ PrefabInstance:
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_Name
       value: Hangar_v4 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23184,6 +24096,10 @@ PrefabInstance:
       value: Oil_tank_v1 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23250,6 +24166,10 @@ PrefabInstance:
       value: Palet_v1_set (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23314,6 +24234,10 @@ PrefabInstance:
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23398,6 +24322,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (22)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23478,6 +24406,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23626,6 +24558,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23700,6 +24636,10 @@ PrefabInstance:
       value: Oil_tank_v2 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23757,6 +24697,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -23886,6 +24830,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v1 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -23950,6 +24898,10 @@ PrefabInstance:
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_Name
       value: Palet_v1_single (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24025,6 +24977,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010325068422, guid: 4aacf79f5a0dae44687cf65a42a1b825, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -24104,6 +25060,10 @@ PrefabInstance:
       value: Concrete_fence_v1_column (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -24164,6 +25124,10 @@ PrefabInstance:
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_H_set_v2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24231,7 +25195,7 @@ GameObject:
   - component: {fileID: 1632441429}
   m_Layer: 0
   m_Name: Concrete_fence_v2
-  m_TagString: Untagged
+  m_TagString: Buliding
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -24261,6 +25225,10 @@ PrefabInstance:
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_Name
       value: Industrial_pipe_v1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24331,6 +25299,10 @@ PrefabInstance:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24506,6 +25478,10 @@ PrefabInstance:
       value: Palet_v1_single (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -24586,6 +25562,10 @@ PrefabInstance:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_quadro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24718,6 +25698,10 @@ PrefabInstance:
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_Name
       value: Industrial_pipe_v1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012270689622, guid: ef77372ba45b400439d547071a884266, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24936,6 +25920,10 @@ PrefabInstance:
       value: Palet_v1_single (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25018,6 +26006,10 @@ PrefabInstance:
       value: UNIConcrete_wall_v1_W_end_2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012325146960, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012325146960, guid: 48b4f0a37e13e804fa5c6e2ba91af4a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25079,6 +26071,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010037619014, guid: 721671003a026be4fb47107988831b38, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010037619014, guid: 721671003a026be4fb47107988831b38, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -25154,6 +26150,10 @@ PrefabInstance:
       value: Concrete_fence_v2_Gate (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012433200114, guid: 60cf315f432990a41b67cef3d41a92f4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25226,6 +26226,10 @@ PrefabInstance:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25352,6 +26356,10 @@ PrefabInstance:
       value: UNIConcrete_wall_v1_W_3 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25422,6 +26430,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25486,6 +26498,10 @@ PrefabInstance:
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v2_S (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25570,6 +26586,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_1 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25634,6 +26654,10 @@ PrefabInstance:
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_Name
       value: Concrete_fence_v1_wall_set_v1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 4000013316604322, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_RootOrder
@@ -25768,6 +26792,10 @@ PrefabInstance:
       value: Pipes_set_v1_V_set_v2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25834,6 +26862,10 @@ PrefabInstance:
       value: Cargo_container_v1_LD2close (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -25898,6 +26930,10 @@ PrefabInstance:
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25972,6 +27008,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26145,6 +27185,10 @@ PrefabInstance:
       value: Palet_v1_single (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010467075504, guid: 4944c29dadd7e02468c053eafe48e485, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -26219,6 +27263,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -26283,6 +27331,10 @@ PrefabInstance:
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_vent_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26351,6 +27403,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_2 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -26415,6 +27471,10 @@ PrefabInstance:
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_Name
       value: Barrel_v3_quadro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000012407837468, guid: 9732a241b7bd0fa4a8e59553d6d8a2b0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26490,6 +27550,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000011366982336, guid: 28b2b68147fce3c4187add1104d6ccd8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -26613,6 +27677,10 @@ PrefabInstance:
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_Name
       value: Hangar_v2_basic (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010228094746, guid: 231f567299ef5844f8dca0461bf7a80b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26755,6 +27823,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -26833,6 +27905,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -26897,6 +27973,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26965,6 +28045,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_1 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010005835110, guid: 845bb3e01ad4efe44adb29f965b2150b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -27026,6 +28110,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -27101,6 +28189,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011585897626, guid: 9d1bb44d500a3ad489d3cb3a6900199f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -27167,6 +28259,10 @@ PrefabInstance:
       value: Electric_box_v3 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013628716364, guid: ee5ce8c8eaa133d43a291b519c442236, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013628716364, guid: ee5ce8c8eaa133d43a291b519c442236, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -27227,6 +28323,10 @@ PrefabInstance:
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_V_set_v2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27367,6 +28467,10 @@ PrefabInstance:
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010720145162, guid: fcbcdad4411dafb489c6994b483d02a6, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27513,6 +28617,10 @@ PrefabInstance:
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_Name
       value: Cargo_container_v1_LD2close (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010817437606, guid: 58d97d456aead63499ac7d5316541f78, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27766,6 +28874,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -27836,6 +28948,10 @@ PrefabInstance:
       value: Oil_tank_v2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -27896,6 +29012,10 @@ PrefabInstance:
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000014291894318, guid: b2be9b4ffc291194c96942bd60bdc25c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28026,6 +29146,10 @@ PrefabInstance:
       value: Pipes_set_v1_vent_2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010396969842, guid: c81b1a60bcf0cb64fa403060ac10ed0d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -28090,6 +29214,10 @@ PrefabInstance:
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_Name
       value: Oil_tank_v2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010192389154, guid: 39485138b2c1f4d41bdd3846e259ffea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28186,6 +29314,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -28247,6 +29379,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010445383670, guid: aca4c3cf28c5f5a428fb19299881807f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -28417,6 +29553,10 @@ PrefabInstance:
       value: Barrel_v1_LD1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012087368230, guid: a22c0c7e17126fa4f89534dc98bcac8f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -28478,6 +29618,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -28549,6 +29693,10 @@ PrefabInstance:
       value: Wooden_box_v1_LD1square (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -28613,6 +29761,10 @@ PrefabInstance:
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_H_set_v2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28680,6 +29832,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000012456564496, guid: 36b4cee33c5a95b4fa7f0ae6bdb49564, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -28910,6 +30066,10 @@ PrefabInstance:
       value: Palet_v1_set (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -28970,6 +30130,10 @@ PrefabInstance:
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_Name
       value: Pipes_set_v1_V_set_v2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000013497408264, guid: 55096903922d4314698414d961ceac0c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29044,6 +30208,10 @@ PrefabInstance:
     - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_Name
       value: UNIConcrete_wall_v1_W_tile_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013792362120, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 4000011729940266, guid: ce4929b3f402674448dd1e25c648d9b7, type: 3}
       propertyPath: m_RootOrder
@@ -29184,6 +30352,10 @@ PrefabInstance:
       value: Hangar_v4 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012260637608, guid: 65feeeb562c61c744aa87b8eb394ffcf, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -29262,6 +30434,10 @@ PrefabInstance:
       value: Concrete_fence_v1_wall_set_v1 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010959013678, guid: f5c94d7d7f024eb43b7dd5258c0608d0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -29332,6 +30508,10 @@ PrefabInstance:
       value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1000012516067446, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012516067446, guid: 32c4edf4f02ad254092a6e1ba94f5b4e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -29392,6 +30572,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29514,6 +30698,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
     - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013666616400, guid: 761e577b5d2438945bdea48c763b901d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -29575,6 +30763,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000010167359026, guid: 81244cd240bc54b41aa108bba94a5623, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000010167359026, guid: 81244cd240bc54b41aa108bba94a5623, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -29650,6 +30842,10 @@ PrefabInstance:
       value: Concrete_fence_v2_S (8)
       objectReference: {fileID: 0}
     - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013039883512, guid: fee6e1da33beae9409089ab8a832464f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -29715,6 +30911,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1325619408}
     m_Modifications:
+    - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013871382564, guid: fe9a19d4f0d796c40bf4fc6b69dd7b81, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -30005,6 +31205,10 @@ PrefabInstance:
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_Name
       value: Wooden_box_v1_LD1square (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
+      propertyPath: m_TagString
+      value: Buliding
       objectReference: {fileID: 0}
     - target: {fileID: 1000010811274378, guid: 6857ff1d3761e21479727f3b27cc8f68, type: 3}
       propertyPath: m_StaticEditorFlags

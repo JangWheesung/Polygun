@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using System;
+using static UnityEditor.PlayerSettings;
 
 public class MapManager : MonoBehaviour
 {
@@ -9,6 +11,8 @@ public class MapManager : MonoBehaviour
 
     //[Header("Range")]
     [SerializeField] float minX, maxX, minZ, maxZ;
+
+    RaycastHit hit;
 
     void Awake()
     {
@@ -24,19 +28,31 @@ public class MapManager : MonoBehaviour
 
     void SpawnEnemy(GameObject spawnEnemy)
     {
-        Vector3 randomPos = new Vector3(Random.Range(minX, maxX), 0, Random.Range(minZ, maxZ));
+        Vector3 randomPos = new Vector3(UnityEngine.Random.Range(minX, maxX), 3, UnityEngine.Random.Range(minZ, maxZ));
 
         Collider[] col = Physics.OverlapSphere(randomPos, 1f);
 
-        if (col.Length < 2) Instantiate(spawnEnemy, randomPos, Quaternion.identity);
+        bool floor = Physics.Raycast(randomPos + new Vector3(0, 2, 0), Vector3.up * 30, out hit);
+
+        if (col.Length < 2 && (hit.transform == null || hit.transform.tag != "Building"))
+        {
+            Instantiate(spawnEnemy, randomPos, Quaternion.identity);
+        }
     }
 
     IEnumerator SpawnSpin(float time)
     {
         while (true)
         {
-            Debug.Log(69);
-            SpawnEnemy(enemys[Random.Range(0, enemys.Count)]);
+            try
+            {
+                SpawnEnemy(enemys[UnityEngine.Random.Range(0, enemys.Count)]);
+            }
+            catch (Exception exp)
+            {
+                //continue;
+            }
+
             yield return new WaitForSeconds(time);
         }
     }

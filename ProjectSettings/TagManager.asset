@@ -9,6 +9,7 @@ TagManager:
   - FxTemporaire
   - Enemy
   - Sound
+  - Buliding
   layers:
   - Default
   - TransparentFX
@@ -19,7 +20,7 @@ TagManager:
   - Enemy
   - Player
   - Bullet
-  - 
+  - Buliding
   - 
   - 
   - 

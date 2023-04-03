@@ -5725,6 +5725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8118864491788158098}
+  - component: {fileID: 3581150261499205868}
   m_Layer: 0
   m_Name: Bip001 Head
   m_TagString: Untagged
@@ -5748,6 +5749,19 @@ Transform:
   m_Father: {fileID: 8118864490300637410}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3581150261499205868
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8118864491788158097}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.42593074, y: 0.44093907, z: 0.43343565}
+  m_Center: {x: -0.1407033, y: 0.013132298, z: -0.0056281085}
 --- !u!1 &8118864491791649486
 GameObject:
   m_ObjectHideFlags: 0
