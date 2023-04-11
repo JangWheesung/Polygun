@@ -62,12 +62,9 @@ public class EnemyAi : MonoBehaviour
 
         originalRot = transform.rotation;
 
-        if (survive)
-        {
-            agent = GetComponent<NavMeshAgent>();
-            agent.speed = runSpeed;
-            destination = agent.destination;
-        }
+        agent = GetComponent<NavMeshAgent>();
+        agent.speed = runSpeed;
+        destination = agent.destination;
     }
     RaycastHit hit;
     void Update()
@@ -135,8 +132,7 @@ public class EnemyAi : MonoBehaviour
         if (Vector3.Distance(destination, player.transform.position) > 1.0f)
         {
             destination = player.transform.position;
-            agent.destination = destination;
-
+            agent.destination = destination; 
             animator.SetBool("Run", true);
         }
 
@@ -253,6 +249,7 @@ public class EnemyAi : MonoBehaviour
 
             fireEmpact.SetActive(false);
 
+            agent.isStopped = true;
             rigidbody.useGravity = false;
             bodyCollider.enabled = false;
             groundCollider.enabled = false;

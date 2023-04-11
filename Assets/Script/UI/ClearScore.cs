@@ -18,6 +18,7 @@ public class ClearScore : MonoBehaviour
     [SerializeField] private Image endingScreeImage;
     [SerializeField] private GameObject gameName;
     [SerializeField] private Text thankText;
+    [SerializeField] private bool survive;
     private Text scoreText;
 
     private void Awake()
@@ -34,9 +35,16 @@ public class ClearScore : MonoBehaviour
 
     void Update()
     {
-        scoreText.text = $"{currentScore}/{maxScore}";
+        if (survive)
+        {
+            scoreText.text = ((int)Time.time).ToString();
+        }
+        else
+        {
+            scoreText.text = $"{currentScore}/{maxScore}";
 
-        EndingScreen();
+            EndingScreen();
+        }
     }
 
     void EndingScreen()

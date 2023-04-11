@@ -39,7 +39,7 @@ public class MapManager : MonoBehaviour
             Instantiate(spawnEnemy, randomPos, Quaternion.identity);
         }
     }
-
+    
     IEnumerator SpawnSpin(float time)
     {
         while (true)
