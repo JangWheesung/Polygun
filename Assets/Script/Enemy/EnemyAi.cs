@@ -255,6 +255,8 @@ public class EnemyAi : MonoBehaviour
             groundCollider.enabled = false;
 
             ClearScore.Instance.currentScore++;
+
+            FAED.InvokeDelay(() => { gameObject.SetActive(false); }, 3);
         }
     }
 
